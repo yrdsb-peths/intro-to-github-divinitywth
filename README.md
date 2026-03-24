@@ -6,7 +6,7 @@ The contents of a readme file are written using [Markdown](https://www.markdowng
 
 1. Click the `pen` symbol above.
 
-2. Enter your First Name:
+2. Enter your First Name: David
 
 3. Enter your favourite animal:
 
